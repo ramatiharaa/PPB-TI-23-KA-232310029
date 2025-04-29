@@ -69,8 +69,8 @@ const Login = () => {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        justifyContent: 'center',  // Center secara vertikal
-        alignItems: 'center',  // Center secara horizontal
+        justifyContent: 'center',
+        alignItems: 'center',
         padding: 20,
         backgroundColor: '#fff',
     },
@@ -123,7 +123,7 @@ const styles = StyleSheet.create({
     buttonContainer: {
         width: 320,
         marginTop: 30,
-        alignItems: 'center',  // Memastikan tombol berada di tengah horizontal
+        alignItems: 'center',
     },
     button: {
         width: '100%',
